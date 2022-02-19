@@ -1,6 +1,6 @@
 # Skeleton Express App
 
-This is a barebone express app. Plus a bit more stuff I added according to what I think we will use for our project:
+This is a barebone express app. Plus a bit more stuff I added / intended according to what I think we will use for our project:
 - Front-end (all contained in the folder named public) Basic HTML + JS logic for:
   - Login VIA Microsoft portal for strictly UBD webmail (conveniently rejects other Microsoft accounts)
   - View Resources
@@ -12,7 +12,7 @@ This is a barebone express app. Plus a bit more stuff I added according to what 
 - Few back-end routes to handle http requests for:
   - GET Categories (all categories, the UI should handling organizing them e.g. collapsing unopened categories)
   - GET Category (resources within the category)
-  - GET Booking-Requests
+  - [NOT YET PROPERLY]GET Booking-Requests
   - [NOT YET]POST Booking-Request (new requests)
 - More to be added:
   - PUT Booking-Request (modify e.g. approve/decline)
@@ -57,3 +57,4 @@ Alternatively, you can use the default command
 ```
 npm start
 ```
+Now you should be able to open access the frontend via http://localhost:8080
