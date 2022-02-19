@@ -10,7 +10,7 @@ This is a barebone express app. Plus a bit more stuff I added / intended accordi
     - [NOT YET]Approve a Booking Request
     - [NOT YET]Decline a Booking Request
 - Few back-end routes to handle http requests for:
-  - GET Categories (all categories, the UI should handling organizing them e.g. collapsing unopened categories)
+  - GET Categories (all categories, the UI should handle organizing them e.g. collapsing "unopened" categories)
   - GET Category (resources within the category)
   - [NOT YET PROPERLY]GET Booking-Requests
   - [NOT YET]POST Booking-Request (new requests)
