@@ -1,0 +1,38 @@
+{
+    "0":{
+        "categoryId": 1,
+        "name": "Macbook Air"
+    },
+    "1":{
+        "categoryId": 1,
+        "name": "Dell Alienware R15"
+    },
+    "2":{
+        "categoryId": 1,
+        "name": "VersaPro type VB (2016 Model)"
+    },
+    "3":{
+        "categoryId": 1,
+        "name": "HP Probook"
+    },
+    "4":{
+        "categoryId": 2,
+        "name": "Microsoft Surface"
+    },
+    "5":{
+        "categoryId": 3,
+        "name": "Tutorial Room G.3"
+    },
+    "6":{
+        "categoryId": 2,
+        "name": "Microsoft Surface"
+    },
+    "7":{
+        "categoryId": 1,
+        "name": "VersaPro type VB (2016 Model)"
+    },
+    "8":{
+        "categoryId": 1,
+        "name": "VersaPro type VB (2016 Model)"
+    }
+}

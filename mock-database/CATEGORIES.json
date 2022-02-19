@@ -1,0 +1,18 @@
+{
+    "0":{
+        "parentId": null,
+        "name": "Computers"
+    },
+    "1":{
+        "parentId": 0,
+        "name": "Laptops"
+    },
+    "2":{
+        "parentId": 0,
+        "name": "Tablets"
+    },
+    "3":{
+        "parentId": null,
+        "name": "Venues"
+    }
+}

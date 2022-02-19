@@ -1,0 +1,25 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: #00B7FF;
+}
+ul .nested-category-name {
+  font-weight: bold;
+  list-style: none;
+  text-indent: -1em;
+}
+.available.resource-name {
+  font-weight: bold;
+  color: darkgreen;
+}
+.clickable:hover {
+  color: blue;
+  cursor: pointer;
+}
+h2 .clickable {
+  text-indent: -2em;
+  padding-left: -2em;
+}
