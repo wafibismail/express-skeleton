@@ -1,5 +1,7 @@
 # Skeleton Express App
 
+Note: Pardon the bad coding, especially for the front-end portion. I just wanted to get the app + some features up and running ASAP. I thought I would be writing way less code than I did here.
+
 This is a barebone express app. Plus a bit more stuff I added / intended according to what I think we will use for our project:
 - Front-end (all contained in the folder named public) Basic HTML + JS logic for:
   - Login VIA Microsoft portal for strictly UBD webmail (conveniently rejects other Microsoft accounts)
